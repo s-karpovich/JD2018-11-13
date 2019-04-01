@@ -1,4 +1,4 @@
-package by.it.skarpovich.enterprise;
+package by.it.skarpovich.enterprise.lesson1;
 
 import java.util.ArrayList;
 
